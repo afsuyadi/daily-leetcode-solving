@@ -12,9 +12,9 @@
 #### Week 3
 | No | Date | Topic | Mental Model | Link |
 |------|------|------|------|------|
-| 1 | 18/02/2026 | "Return Anything" | 30 Days of Javascript - Create Hello World Function | https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript |
-| 1 | 18/02/2026 | "🧠 Function With Memory" | 30 Days of Javascript - Counter | https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript |
-| 2 | 19/02/2026 |  |  |
-| 3 | 20/02/2026 |  |  |
-| 4 | 21/02/2026 |  |  |
-| 5 | 22/02/2026 |  |  |
+| 1 | 18/02/2026 | 30 Days of Javascript - Create Hello World Function | "Return Anything" | https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript |
+| 1 | 18/02/2026 | 30 Days of Javascript - Counter | "🧠 Function With Memory" | https://leetcode.com/problems/counter/description/?envType=study-plan-v2&envId=30-days-of-javascript |
+| 2 | 19/02/2026 | 30 Days of Javascript - To be or Not to be |  |  |
+| 3 | 20/02/2026 |  |  |  |
+| 4 | 21/02/2026 |  |  |  |
+| 5 | 22/02/2026 |  |  |  |
