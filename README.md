@@ -7,7 +7,7 @@
 | 1<br/>⬜ | 2<br/>⬜ | 3<br/>⬜ | 4<br/>⬜ | 5<br/>⬜ | 6<br/>⬜ | 7<br/>⬜ |
 | 8<br/>⬜ | 9<br/>⬜ | 10<br/>⬜ | 11<br/>⬜ | 12<br/>⬜ | 13<br/>⬜ | 14<br/>⬜ |
 | 15<br/>⬜ | 16<br/>⬜ | 17<br/>⬜ | 18<br/>✅ | 19<br/>❌ | 20<br/>✅ | 21<br/>✅ |
-| 22<br/>⬜ | 23<br/>⬜ | 24<br/>⬜ | 25<br/>⬜ | 26<br/>⬜ | 27<br/>⬜ | 28<br/>⬜ |
+| 22<br/>✅ | 23<br/>⬜ | 24<br/>⬜ | 25<br/>⬜ | 26<br/>⬜ | 27<br/>⬜ | 28<br/>⬜ |
 
 #### Week 3
 | No | Date | Topic | Mental Model | Link |
@@ -17,4 +17,4 @@
 | 3 | 19/02/2026 | ❌ | ❌ | ❌ |
 | 4 | 20/02/2026 | 2704. To Be Or Not To Be | Closure - "A Function that returns Dictionary" | https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript |
 | 5 | 21/02/2026 | 2665. Counter II | Closure - "🧠 Private state + shared access + controlled mutation." | https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript |
-| 6 | 22/02/2026 | 2635. Apply Transform Over Each Element in Array |  |  |
+| 6 | 22/02/2026 | 2635. Apply Transform Over Each Element in Array | Basic Array Transformations - "Manual Map” | https://leetcode.com/problems/apply-transform-over-each-element-in-array/submissions/1926813362/?envType=study-plan-v2&envId=30-days-of-javascript |
