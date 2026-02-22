@@ -18,3 +18,4 @@
 | 4 | 20/02/2026 | 2704. To Be Or Not To Be | Closure - "A Function that returns Dictionary" | https://leetcode.com/problems/to-be-or-not-to-be/?envType=study-plan-v2&envId=30-days-of-javascript |
 | 5 | 21/02/2026 | 2665. Counter II | Closure - "🧠 Private state + shared access + controlled mutation." | https://leetcode.com/problems/counter-ii/?envType=study-plan-v2&envId=30-days-of-javascript |
 | 6 | 22/02/2026 | 2635. Apply Transform Over Each Element in Array | Basic Array Transformations - "Manual Map” | https://leetcode.com/problems/apply-transform-over-each-element-in-array/submissions/1926813362/?envType=study-plan-v2&envId=30-days-of-javascript |
+| 7 | 22/02/2026 | 2634. Filter Elements from Array | Basic Array Transformations - "Gatekeeper Pattern" | https://leetcode.com/problems/filter-elements-from-array/?envType=study-plan-v2&envId=30-days-of-javascript
