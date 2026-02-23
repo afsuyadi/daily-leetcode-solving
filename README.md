@@ -12,7 +12,7 @@
 #### Week 4
 | No | Date | Topic | Mental Model | Link |
 |------|------|------|------|------|
-| 1 | 23/02/2026 | | | |
+| 1 | 23/02/2026 | 2626. Array Reduce Transformation | Basic Array Transformations - "Rolling Accumulator" | https://leetcode.com/problems/array-reduce-transformation/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 2 | 24/02/2026 | | | |
 | 3 | 25/02/2026 | | | |
 | 4 | 26/02/2026 | | | |
