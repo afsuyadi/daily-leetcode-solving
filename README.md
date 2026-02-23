@@ -13,12 +13,19 @@
 | No | Date | Topic | Mental Model | Link |
 |------|------|------|------|------|
 | 1 | 23/02/2026 | 2626. Array Reduce Transformation | Basic Array Transformations - "Rolling Accumulator" | https://leetcode.com/problems/array-reduce-transformation/?envType=study-plan-v2&envId=30-days-of-javascript|
-| 2 | 24/02/2026 | | | |
-| 3 | 25/02/2026 | | | |
-| 4 | 26/02/2026 | | | |
-| 5 | 27/02/2026 | | | | 
-| 6 | 28/02/2026 | | | |
-| 7 | 29/02/2026 | | | |
+| 2 | 23/02/2026 | 2629. Function Composition | Function Transformations - "Pass the value through a pipeline backwards" |https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript|
+| 3 | 24/02/2026 | | | |
+| 4 | 24/02/2026 | | | |
+| 5 | 25/02/2026 | | | |
+| 6 | 25/02/2026 | | | |
+| 7 | 26/02/2026 | | | |
+| 8 | 26/02/2026 | | | |
+| 9 | 27/02/2026 | | | | 
+| 10 | 27/02/2026 | | | |
+| 11 | 28/02/2026 | | | |
+| 12 | 28/02/2026 | | | |
+| 13 | 29/02/2026 | | | |
+| 14 | 29/02/2026 | | | |
 
 #### Week 3
 | No | Date | Topic | Mental Model | Link |
