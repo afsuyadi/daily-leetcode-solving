@@ -14,7 +14,7 @@
 |------|------|------|------|------|
 | 1 | 23/02/2026 | 2626. Array Reduce Transformation | Basic Array Transformations - "Rolling Accumulator" | https://leetcode.com/problems/array-reduce-transformation/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 2 | 23/02/2026 | 2629. Function Composition | Function Transformations - "Pass the value through a pipeline backwards" |https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript|
-| 3 | 24/02/2026 | | | |
+| 3 | 24/02/2026 | 2703. Return Length of Arguments Passed | Function Transformations - "Just Return Length of Args" | https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 4 | 24/02/2026 | | | |
 | 5 | 25/02/2026 | | | |
 | 6 | 25/02/2026 | | | |
