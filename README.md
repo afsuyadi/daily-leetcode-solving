@@ -10,13 +10,13 @@
 | 22<br/>✅ | 23<br/>✅ | 24<br/>✅ | 25<br/>⬜ | 26<br/>⬜ | 27<br/>⬜ | 28<br/>⬜ |
 
 #### Week 4
-| No | Date | Topic | Mental Model | Link |
+| No | Date | Topic | How to Solve | Link |
 |------|------|------|------|------|
 | 1 | 23/02/2026 | 2626. Array Reduce Transformation | Basic Array Transformations - "Rolling Accumulator" | https://leetcode.com/problems/array-reduce-transformation/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 2 | 23/02/2026 | 2629. Function Composition | Function Transformations - "Pass the value through a pipeline backwards" |https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 3 | 24/02/2026 | 2703. Return Length of Arguments Passed | Function Transformations - "Just Return Length of Args" | https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 4 | 24/02/2026 | 2666. Allow One Function Call | Function Transformations - "Gate That Closes After First Use" | https://leetcode.com/problems/allow-one-function-call/?envType=study-plan-v2&envId=30-days-of-javascript|
-| 5 | 25/02/2026 | | | |
+| 5 | 25/02/2026 | 2623. Memoize | Wrape -> Cache (using Dict) -> Check -> Compute -> Return | https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 6 | 25/02/2026 | | | |
 | 7 | 26/02/2026 | | | |
 | 8 | 26/02/2026 | | | |
