@@ -18,7 +18,7 @@
 | 4 | 24/02/2026 | 2666. Allow One Function Call | Function Transformations - "Gate That Closes After First Use" | https://leetcode.com/problems/allow-one-function-call/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 5 | 25/02/2026 | 2623. Memoize | Function Transformations : Wrap -> Cache (using Dict) -> Check -> Compute -> Return | https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 6 | 25/02/2026 | 2723. Add Two Promises | Promises & Time : Use Await to obtain output from promise | https://leetcode.com/problems/add-two-promises/?envType=study-plan-v2&envId=30-days-of-javascript|
-| 7 | 26/02/2026 | | | |
+| 7 | 26/02/2026 |2621. Sleep | Promises & Time : Use Promise() -> use setTimeout() |https://leetcode.com/problems/sleep/description/?envType=study-plan-v2&envId=30-days-of-javascript |
 | 8 | 26/02/2026 | | | |
 | 9 | 27/02/2026 | | | | 
 | 10 | 27/02/2026 | | | |
