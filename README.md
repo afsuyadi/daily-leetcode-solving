@@ -7,7 +7,7 @@
 | 1<br/>⬜ | 2<br/>⬜ | 3<br/>⬜ | 4<br/>⬜ | 5<br/>⬜ | 6<br/>⬜ | 7<br/>⬜ |
 | 8<br/>⬜ | 9<br/>⬜ | 10<br/>⬜ | 11<br/>⬜ | 12<br/>⬜ | 13<br/>⬜ | 14<br/>⬜ |
 | 15<br/>⬜ | 16<br/>⬜ | 17<br/>⬜ | 18<br/>✅ | 19<br/>❌ | 20<br/>✅ | 21<br/>✅ |
-| 22<br/>✅ | 23<br/>✅ | 24<br/>✅ | 25<br/>✅ | 26<br/>⬜ | 27<br/>⬜ | 28<br/>⬜ |
+| 22<br/>✅ | 23<br/>✅ | 24<br/>✅ | 25<br/>✅ | 26<br/>✅ | 27<br/>✅ | 28<br/>⬜ |
 
 #### Week 2
 | No | Date | Topic | How to Solve | Link |
@@ -19,8 +19,7 @@
 | 5 | 25/02/2026 | 2623. Memoize | Function Transformations : Wrap -> Cache (using Dict) -> Check -> Compute -> Return | https://leetcode.com/problems/memoize/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 6 | 25/02/2026 | 2723. Add Two Promises | Promises & Time : Use Await to obtain output from promise | https://leetcode.com/problems/add-two-promises/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 7 | 26/02/2026 |2621. Sleep | Promises & Time : Use Promise() -> use setTimeout() |https://leetcode.com/problems/sleep/description/?envType=study-plan-v2&envId=30-days-of-javascript |
-| 8 | 26/02/2026 | | | |
-| 9 | 27/02/2026 | | | | 
+| 8 | 27/02/2026 |Q1. Concatenation of Array | Array : Just use concat() method | https://leetcode.com/problems/concatenation-of-array/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i| 
 | 10 | 27/02/2026 | | | |
 | 11 | 28/02/2026 | | | |
 | 12 | 28/02/2026 | | | |
