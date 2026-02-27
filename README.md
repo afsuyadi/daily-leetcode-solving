@@ -20,7 +20,7 @@
 | 6 | 25/02/2026 | 2723. Add Two Promises | Promises & Time : Use Await to obtain output from promise | https://leetcode.com/problems/add-two-promises/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 7 | 26/02/2026 |2621. Sleep | Promises & Time : Use Promise() -> use setTimeout() |https://leetcode.com/problems/sleep/description/?envType=study-plan-v2&envId=30-days-of-javascript |
 | 8 | 27/02/2026 |Q1. Concatenation of Array | Array : Just use concat() method | https://leetcode.com/problems/concatenation-of-array/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i| 
-| 10 | 27/02/2026 | | | |
+| 10 | 27/02/2026 | Q2. Shuffle The Array| Array: Use 2 pointers when adding the values into new array | https://leetcode.com/problems/shuffle-the-array/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i|
 | 11 | 28/02/2026 | | | |
 | 12 | 28/02/2026 | | | |
 | 13 | 29/02/2026 | | | |
