@@ -24,7 +24,7 @@
 | 10 | 27/02/2026 |Q3. Max Consecutive Ones| Array: Use 2 Pointers to remember current streak and max streak | https://leetcode.com/problems/max-consecutive-ones/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i|
 | 11 | 28/02/2026 | 2715. Timeout Cancellation|Promises & Time : Use setTimeout() and clearTimeout() for schedulling the cancellation | https://leetcode.com/problems/timeout-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 12 | 28/02/2026 | Q1. Set Mismatch|Array II : Make method to search for missing and duplicated number | https://leetcode.com/problems/set-mismatch/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-ii|
-| 13 | 29/02/2026 | | | |
+| 13 | 28/02/2026 | Q2. How Many Numbers Are Smaller Than the Current Number| Array II: Create Duplicate and then check every other value that is less than the current | https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-ii|
 | 14 | 29/02/2026 | | | |
 
 #### Week 1
