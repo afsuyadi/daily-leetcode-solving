@@ -7,7 +7,7 @@
 | 1<br/>⬜ | 2<br/>⬜ | 3<br/>⬜ | 4<br/>⬜ | 5<br/>⬜ | 6<br/>⬜ | 7<br/>⬜ |
 | 8<br/>⬜ | 9<br/>⬜ | 10<br/>⬜ | 11<br/>⬜ | 12<br/>⬜ | 13<br/>⬜ | 14<br/>⬜ |
 | 15<br/>⬜ | 16<br/>⬜ | 17<br/>⬜ | 18<br/>✅ | 19<br/>❌ | 20<br/>✅ | 21<br/>✅ |
-| 22<br/>✅ | 23<br/>✅ | 24<br/>✅ | 25<br/>✅ | 26<br/>✅ | 27<br/>✅ | 28<br/>⬜ |
+| 22<br/>✅ | 23<br/>✅ | 24<br/>✅ | 25<br/>✅ | 26<br/>✅ | 27<br/>✅ | 28<br/>✅ |
 
 #### Week 2
 | No | Date | Topic | How to Solve | Link |
@@ -23,7 +23,7 @@
 | 9 | 27/02/2026 | Q2. Shuffle The Array| Array: Use 2 pointers when adding the values into new array | https://leetcode.com/problems/shuffle-the-array/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i|
 | 10 | 27/02/2026 |Q3. Max Consecutive Ones| Array: Use 2 Pointers to remember current streak and max streak | https://leetcode.com/problems/max-consecutive-ones/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i|
 | 11 | 28/02/2026 | 2715. Timeout Cancellation|Promises & Time : Use setTimeout() and clearTimeout() for schedulling the cancellation | https://leetcode.com/problems/timeout-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript|
-| 12 | 28/02/2026 | | | |
+| 12 | 28/02/2026 | Q1. Set Mismatch|Array II : Make method to search for missing and duplicated number | https://leetcode.com/problems/set-mismatch/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-ii|
 | 13 | 29/02/2026 | | | |
 | 14 | 29/02/2026 | | | |
 
