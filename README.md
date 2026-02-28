@@ -22,7 +22,7 @@
 | 8 | 27/02/2026 |Q1. Concatenation of Array | Array : Just use concat() method | https://leetcode.com/problems/concatenation-of-array/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i| 
 | 9 | 27/02/2026 | Q2. Shuffle The Array| Array: Use 2 pointers when adding the values into new array | https://leetcode.com/problems/shuffle-the-array/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i|
 | 10 | 27/02/2026 |Q3. Max Consecutive Ones| Array: Use 2 Pointers to remember current streak and max streak | https://leetcode.com/problems/max-consecutive-ones/?envType=problem-list-v2&envId=dsa-linear-shoal-array-i|
-| 11 | 28/02/2026 | | | |
+| 11 | 28/02/2026 | 2715. Timeout Cancellation|Promises & Time : Use setTimeout() and clearTimeout() for schedulling the cancellation | https://leetcode.com/problems/timeout-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript|
 | 12 | 28/02/2026 | | | |
 | 13 | 29/02/2026 | | | |
 | 14 | 29/02/2026 | | | |
