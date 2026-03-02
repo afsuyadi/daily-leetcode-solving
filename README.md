@@ -1,13 +1,31 @@
 # Daily Leetcode Solving
 ## Target (Feb 2026 - Mar 2026) : 30 Days of Javascript
 
-### 2026 February
+<details>
+<summary>2026 March</summary>
+| Sun      | Mon      | Tue      | Wed      | Thu      | Fri      | Sat      |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| 1<br/>⬜  | 2<br/>✅  | 3<br/>⬜  | 4<br/>⬜  | 5<br/>⬜  | 6<br/>⬜  | 7<br/>⬜  |
+| 8<br/>⬜  | 9<br/>⬜  | 10<br/>⬜ | 11<br/>⬜ | 12<br/>⬜ | 13<br/>⬜ | 14<br/>⬜ |
+| 15<br/>⬜ | 16<br/>⬜ | 17<br/>⬜ | 18<br/>⬜ | 19<br/>⬜ | 20<br/>⬜ | 21<br/>⬜ |
+| 22<br/>⬜ | 23<br/>⬜ | 24<br/>⬜ | 25<br/>⬜ | 26<br/>⬜ | 27<br/>⬜ | 28<br/>⬜ |
+| 29<br/>⬜ | 30<br/>⬜ | 31<br/>⬜ |          |          |          |          |
+</details>
+
+#### Week 3
+| No | Date | Topic | How to Solve | Link |
+|------|------|------|------|------|
+| 1 | 02/03/2026 | Q3. Find all numbers disappeared in an array | Array II - use Set() and check with if else | https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-ii |
+
+<details>
+<summary>2026 February</summary>
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |-----|-----|-----|-----|-----|-----|-----|
 | 1<br/>⬜ | 2<br/>⬜ | 3<br/>⬜ | 4<br/>⬜ | 5<br/>⬜ | 6<br/>⬜ | 7<br/>⬜ |
 | 8<br/>⬜ | 9<br/>⬜ | 10<br/>⬜ | 11<br/>⬜ | 12<br/>⬜ | 13<br/>⬜ | 14<br/>⬜ |
 | 15<br/>⬜ | 16<br/>⬜ | 17<br/>⬜ | 18<br/>✅ | 19<br/>❌ | 20<br/>✅ | 21<br/>✅ |
 | 22<br/>✅ | 23<br/>✅ | 24<br/>✅ | 25<br/>✅ | 26<br/>✅ | 27<br/>✅ | 28<br/>✅ |
+</details>
 
 #### Week 2
 | No | Date | Topic | How to Solve | Link |
