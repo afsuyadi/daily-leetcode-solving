@@ -5,7 +5,7 @@
 | Sun      | Mon      | Tue      | Wed      | Thu      | Fri      | Sat      |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | 1<br/>✅  | 2<br/>✅  | 3<br/>✅  | 4<br/>✅  | 5<br/>✅  | 6<br/>❌  | 7<br/>❌  |
-| 8<br/>❌  | 9<br/>✅  | 10<br/>⬜ | 11<br/>⬜ | 12<br/>⬜ | 13<br/>⬜ | 14<br/>⬜ |
+| 8<br/>❌  | 9<br/>✅  | 10<br/>❌ | 11<br/>❌ | 12<br/>❌ | 13<br/>❌ | 14<br/>⬜ |
 | 15<br/>⬜ | 16<br/>⬜ | 17<br/>⬜ | 18<br/>⬜ | 19<br/>⬜ | 20<br/>⬜ | 21<br/>⬜ |
 | 22<br/>⬜ | 23<br/>⬜ | 24<br/>⬜ | 25<br/>⬜ | 26<br/>⬜ | 27<br/>⬜ | 28<br/>⬜ |
 | 29<br/>⬜ | 30<br/>⬜ | 31<br/>⬜ |          |          |          |          |
@@ -18,7 +18,7 @@
 | 2 | 03/03/2026 | 2725. Interval Cancellation | 30 days of JS - use setInterval() and clearInterval() | https://leetcode.com/problems/interval-cancellation/description/?envType=study-plan-v2&envId=30-days-of-javascript |
 | 3 | 04/03/2026 | Q1. Build an array with stack operations | Stack - Must simulate every loop for every value | https://leetcode.com/problems/build-an-array-with-stack-operations/?envType=problem-list-v2&envId=dsa-linear-shoal-stack |
 | 4 | 05/03/2026 | 2637. Promise Time Limit | Promises & Time - Use core method Promise.race([]) for both 2 promises | https://leetcode.com/problems/promise-time-limit/submissions/1938525653/?envType=study-plan-v2&envId=30-days-of-javascript |
-| 5 | 09/03/2026 | @2. Evaluate Reverse Polish Notation | Stack - Loop every element, and then check if it's number or operator| https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=problem-list-v2&envId=dsa-linear-shoal-stack |
+| 5 | 09/03/2026 | Q2. Evaluate Reverse Polish Notation | Stack - Loop every element, and then check if it's number or operator| https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=problem-list-v2&envId=dsa-linear-shoal-stack |
 
 <details>
 <summary>2026 February</summary>
